@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 25pt;
+    color: black;
+}
+.errorMsg{
+      color:red;
+      text-align: center;
+      margin-left: 40%;
+      float: left;
+}
+label{
+    text-align: center;
+    font-size: larger;
+    color: rgb(34, 31, 66);
+    width:50%;
+    margin-left: 40%;
+    margin-bottom: 20%;
+    font-size: 13pt;
+}
+input[type=text],input[type=password]{
+   align-items: center;
+   width:55%;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   margin-left: 40%;
+   border-radius: 2px solid red;
+   
+} 
+.button{
+    text-align: center;
+    margin-bottom: 20%;
+    margin-top: 3%;
+    margin-left: 50%;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    font-size: 12pt;
+}
+.button:hover{
+    background-color: green;
+}
+#form-all{
+    background-color:rgb(251, 252, 253);
+}
+#form-in{
+    background-color: beige;
+    padding-left: 10%;
+    padding-right: 20%;
+    margin-left: 250px;
+    margin-right:250px;
+}
+.form{
+    background-color: aquamarine;
+}
+::placeholder{
+    text-align: left;
+
+}
+
